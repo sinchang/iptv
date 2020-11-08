@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1 ,香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 ,Channel NewsAsia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 ,NHK World Japan
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
+#EXTINF:-1 ,RTHK TV32
+https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 ,RTHK TV31
+https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 ,Open TV
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1 ,Music Channel
+https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
+#EXTINF:-1 ,HK 無綫新聞台
+http://livetv.dnsfor.me/channel.10.m3u8
+#EXTINF:-1 ,TW 民視新聞
+http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #EXTINF:-1 ,CCTV-1高清
 http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 ,CCTV-2高清
@@ -245,20 +263,6 @@ rtmp://ivi.bupt.edu.cn:1935/livetv/chchd
 rtmp://ivi.bupt.edu.cn:1935/livetv/chctv
 #EXTINF:-1 ,CHC动作电影
 rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
-#EXTINF:-1 ,香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 ,Channel NewsAsia
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 ,NHK World Japan
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
-#EXTINF:-1 ,RTHK TV32
-https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 ,RTHK TV31
-https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 ,Open TV
-http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-#EXTINF:-1 ,Music Channel
-https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
 #EXTINF:-1 ,AdultIPTV.net Live Cams
 http://cdn.adultiptv.net/livecams.m3u8
 #EXTINF:-1 ,AdultIPTV.net Anal
