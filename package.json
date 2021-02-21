@@ -2,7 +2,13 @@
   "name": "iptv",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "check": "iptv-checker ./channels.m3u -p 10"
+  },
   "repository": "https://github.com/sinchang/iptv.git",
   "author": "sinchang <sinchangwen@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "iptv-checker": "^0.18.2"
+  }
 }
